@@ -225,3 +225,11 @@ button:hover {
         font-size: 2rem;
     }
 }
+
+footer {
+    background: #0d2f5f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
