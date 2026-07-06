@@ -41,8 +41,7 @@ nav a {
     background-image: url("images/hero.jpg");
     background-size: cover;
     background-position: center;
-
-    height: 80vh;
+    min-height: 600px;
 
     display: flex;
     justify-content: center;
